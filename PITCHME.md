@@ -1,10 +1,13 @@
 
-## How to Survive Stack Overflow
+## How to Survive
+# Stack Overflow
 ### Or Die Trying
 
 ---
 
 Who I am
+
+-
   - Stack Overflow
 
 ---
@@ -31,6 +34,9 @@ What stack overflow isn't
 
 ---
 
+
+---
+
 # Stack Overflow Sucks
 
 ---
@@ -40,10 +46,13 @@ What stack overflow isn't
 ---
 
 ![sosucks2](https://github.com/meagar/something/raw/master/assets/sosucks2.png)
+
 ---
 ![sosucks3](https://github.com/meagar/something/raw/master/assets/sosucks3.png)
+
 ---
 ![sosucks4](https://github.com/meagar/something/raw/master/assets/sosucks4.png)
+
 ---
 ![sosucks5](https://github.com/meagar/something/raw/master/assets/sosucks5.png)
 
