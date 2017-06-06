@@ -35,7 +35,17 @@ What stack overflow isn't
 
 ---
 
-![sosucks1]()
+![sosucks1](https://github.com/meagar/something/raw/master/assets/sosucks1.png)
+
+---
+
+![sosucks2](https://github.com/meagar/something/raw/master/assets/sosucks2.png)
+---
+![sosucks3](https://github.com/meagar/something/raw/master/assets/sosucks3.png)
+---
+![sosucks4](https://github.com/meagar/something/raw/master/assets/sosucks4.png)
+---
+![sosucks5](https://github.com/meagar/something/raw/master/assets/sosucks5.png)
 
 ---
 
