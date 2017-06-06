@@ -6,13 +6,19 @@
 ---
 
 # Who am I?
-### (in the context of Stack Overflow)
+### (in the context of Stack Overflow) |
 
 - Joined in December 2009
 - Primarily answered PHP questions |
 - Reached 10k rep in 2010 |
 - Reached 100k rep in 2015 (got a sweet mug) |
 - Joined moderator team in 2015 |
+
+---
+
+# Who am I?
+### (in the context of Stack Overflow) |
+
 
 ---
 
