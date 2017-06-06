@@ -19,6 +19,7 @@
 # Who am I?
 ### (in the context of Stack Overflow) |
 
+![Rank](https://github.com/meagar/something/raw/master/assets/rank.png)
 
 ---
 
@@ -28,7 +29,7 @@
 
 ## A history
 
-![Logo](https://github.com/meagar/something/raw/fda779b539617af384b46f1f1504069ec336f7f8/assets/venn.png)
+![Logo](https://github.com/meagar/something/raw/master/assets/venn.png)
 
 
 ---
