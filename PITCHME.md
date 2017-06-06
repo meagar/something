@@ -7,7 +7,7 @@
 Who I am
   - Stack Overflow
 
- ![Logo](assets/venn.png)
+ ![Logo](https://github.com/meagar/something/raw/fda779b539617af384b46f1f1504069ec336f7f8/assets/venn.png)assets/venn.png)]
 ---
 
 What is Stack Overflow
