@@ -76,6 +76,10 @@
 
 ---
 
+![docs](https://github.com/meagar/something/raw/master/assets/documentation.png)
+
+---
+
 - 14,000,000 questions  |
 - 72% answered |
 - 7,200,000 users |
