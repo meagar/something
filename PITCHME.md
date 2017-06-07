@@ -52,11 +52,25 @@
 
 ---
 
-![yahoo3](https://github.com/meagar/something/raw/master/assets/yahoo3.jpg)
+![yahoo3](https://github.com/meagar/something/raw/master/assets/yahoo3.jpg
+
+---
+
+![yahoo3](https://github.com/meagar/something/raw/master/assets/yahoo4.jpg)
 
 ---
 
 ## Today
+
+---
+
+![exchange1](https://github.com/meagar/something/raw/master/assets/exchange1.png)
+
+---
+
+![jobs](https://github.com/meagar/something/raw/master/assets/jobs.png)
+
+---
 
 - 14,000,000 questions  |
 - 72% answered |
@@ -65,7 +79,11 @@
 
 ---
 
-![exchange1](https://github.com/meagar/something/raw/master/assets/exchange1.png)
+- 1,300,000 downvoted questions |
+- 600,000 closed questions |
+- 4,300,000 deleted questions |
+- 800,000 deleted users |
+- https://data.stackexchange.com/
 
 ---
 
@@ -88,6 +106,10 @@
 ---
 ![sosucks5](https://github.com/meagar/something/raw/master/assets/sosucks5.png)
 
+
+---
+
+## Philosophies
 
 ---
 
