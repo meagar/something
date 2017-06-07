@@ -32,11 +32,6 @@
 
 ---
 
-## The 2008 Landscape
-#### (Anti-experts-exchange)
-
----
-
 ![experts1](https://github.com/meagar/something/raw/master/assets/experts1.png)
 
 ---
@@ -59,8 +54,10 @@
 
 ## Today
 
-
-  - misconceptions
+- 14,000,000 questions  |
+- 72% answered |
+- 7,200,000 users |
+- 356,281 200+ rep users |
 
 ---
 
