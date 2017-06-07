@@ -87,6 +87,13 @@
 
 ---
 
+### Stack Overflow is
+# Brutally
+### unforgiving
+
+---
+
+
 ![asking1](https://github.com/meagar/something/raw/master/assets/asking1.png)
 
 ---
