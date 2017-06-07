@@ -151,8 +151,40 @@
 
 # *Does* Stack Overflow Suck?
 
+It depends |
+
 ---
 
 ## Stack Overflow is *read* optimized
 
+99.999% of SO interactions are read-only
+
 ---
+
+## Stack Overflow is a work of *reference*
+
+If your post would be out of place on Wikipedia, it's out of place on Stack Overflow
+
+--
+
+# How to succeed
+
+---
+
+## 1. Perception
+
+- Downvotes are not personal |
+- Closure is not personal |
+- Duplicates generally *are* duplicates (you may not have reduced your problem) |
+
+---
+
+## 2. Before asking...
+
+- Reduce your problem |
+- Research your problem |
+- *Debug* your problem |
+- Learn English |
+- Search Stack Overflow (with Google, not SO) |
+
+## 3. Before answering...
