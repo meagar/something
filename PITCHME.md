@@ -24,10 +24,12 @@
 ## A History
 
 - Started in 2008 by Jeff and Joel |
-- Dark time for programming Q&A
+- Dark time for programming Q&A |
 - *"anti-experts-exchange meets wikipedia meets programming reddit."* |
 
-- ![Logo](https://github.com/meagar/something/raw/master/assets/venn.png) |
+---
+
+![Logo](https://github.com/meagar/something/raw/master/assets/venn.png) |
 
 ---
 
