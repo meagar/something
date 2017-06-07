@@ -80,6 +80,8 @@
 
 ---
 
+## Numbers
+
 - 14,000,000 questions  |
 - 72% answered |
 - 7,200,000 users |
@@ -87,6 +89,8 @@
 
 ---
 
+## Numbers :(
+  
 - 1,300,000 downvoted questions |
 - 600,000 closed questions |
 - 4,300,000 deleted questions |
