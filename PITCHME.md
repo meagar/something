@@ -65,14 +65,7 @@
 
 ---
 
-1[exchange1](https://github.com/meagar/something/raw/master/assets/exchange1.png)
-
----
-
-What stack overflow isn't
-
----
-
+![exchange1](https://github.com/meagar/something/raw/master/assets/exchange1.png)
 
 ---
 
@@ -94,6 +87,10 @@ What stack overflow isn't
 
 ---
 ![sosucks5](https://github.com/meagar/something/raw/master/assets/sosucks5.png)
+
+---
+
+## Stack Overflow is *read* optimized
 
 ---
 
