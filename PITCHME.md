@@ -6,9 +6,9 @@
 ---
 
 # Who am I?
-### (in the context of Stack Overflow) |
+### (in the context of Stack Overflow)
 
-- Joined in December 2009
+- Joined in December 2009 |
 - Primarily answered PHP questions |
 - Reached 10k rep in 2010 |
 - Reached 100k rep in 2015 (got a sweet mug) |
@@ -17,7 +17,7 @@
 ---
 
 # Who am I?
-### (in the context of Stack Overflow) |
+### (in the context of Stack Overflow)
 
 ![Rank](https://github.com/meagar/something/raw/master/assets/rank.png)
 
@@ -27,9 +27,15 @@
 
 ---
 
-## A history
+## A History
 
-![Logo](https://github.com/meagar/something/raw/master/assets/venn.png)
+- Started in 2008 by Jeff and Joel |
+
+---
+
+## A History
+
+![Logo](https://github.com/meagar/something/raw/master/assets/venn.png) |
 
 
 ---
