@@ -153,14 +153,6 @@
 
 ---
 
-## Philosophies
-
----
-
 ## Stack Overflow is *read* optimized
-
----
-
-## Stack Overflow hates noise
 
 ---
