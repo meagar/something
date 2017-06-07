@@ -21,8 +21,10 @@
 
 ---
 
-- Started in 2008 by Jeff and Joel
+### A bit of history
+- Started in 2008 by Jeff and Joel |
 - "anti-experts-exchange meets wikipedia meets programming reddit." |
+- A Q&A site that doesn't suck |
 
 ---
 
@@ -59,9 +61,8 @@
 
 ---
 
-## Stack Exchange
+1[exchange1](https://github.com/meagar/something/raw/master/assets/exchange1.png)
 
--
 ---
 
 What stack overflow isn't
