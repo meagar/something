@@ -165,6 +165,16 @@
 
 ---
 
+### Stack Overflow is
+# Misunderstood
+
+---
+
+### And so...
+# How to succeed
+
+---
+
 # Philosophies to live by
 ### (on Stack Overflow)
 
@@ -191,10 +201,6 @@ Some is edited, some is closed, much is downvoted
 ## Everybody's a volunteer
 
 Patience is key
-
----
-
-# How to succeed
 
 ---
 
