@@ -83,7 +83,7 @@
 - 600,000 closed questions |
 - 4,300,000 deleted questions |
 - 800,000 deleted users |
-- data.stackexchange.com |
+- (data.stackexchange.com) |
 
 ---
 
@@ -98,7 +98,7 @@
 
 ---
 
-### A Typical SO quesiton...
+### A Typical SO interaction ...
 
 ---
 
@@ -124,7 +124,7 @@
 
 ---
 
-![asking4](https://github.com/meagar/something/raw/master/assets/asking.png)
+![asking4](https://github.com/meagar/something/raw/master/assets/asking4.png)
 
 ---
 
