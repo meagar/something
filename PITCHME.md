@@ -52,11 +52,11 @@
 
 ---
 
-![yahoo3](https://github.com/meagar/something/raw/master/assets/yahoo3.jpg
+![yahoo3](https://github.com/meagar/something/raw/master/assets/yahoo3.jpg)
 
 ---
 
-![yahoo3](https://github.com/meagar/something/raw/master/assets/yahoo4.jpg)
+![yahoo3](https://github.com/meagar/something/raw/master/assets/yahoo4.png)
 
 ---
 
@@ -84,6 +84,22 @@
 - 4,300,000 deleted questions |
 - 800,000 deleted users |
 - https://data.stackexchange.com/
+
+---
+
+![asking1](https://github.com/meagar/something/raw/master/assets/asking1.png)
+
+---
+
+![asking2](https://github.com/meagar/something/raw/master/assets/asking2.png)
+
+---
+
+![asking3](https://github.com/meagar/something/raw/master/assets/asking3.png)
+
+---
+
+![asking4](https://github.com/meagar/something/raw/master/assets/asking.png)
 
 ---
 
