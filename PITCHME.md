@@ -37,11 +37,11 @@
 
 ---
 
-[!experts1](https://github.com/meagar/something/raw/master/assets/experts1.png)
+![experts1](https://github.com/meagar/something/raw/master/assets/experts1.png)
 
 ---
 
-[!experts1](https://github.com/meagar/something/raw/master/assets/experts2.png)
+![experts1](https://github.com/meagar/something/raw/master/assets/experts2.png)
 
 ---
 
