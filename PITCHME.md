@@ -83,7 +83,7 @@
 - 600,000 closed questions |
 - 4,300,000 deleted questions |
 - 800,000 deleted users |
-- https://data.stackexchange.com/ |
+- data.stackexchange.com |
 
 ---
 
