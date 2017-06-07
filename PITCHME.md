@@ -45,6 +45,18 @@
 
 ---
 
+![yahoo1](https://github.com/meagar/something/raw/master/assets/yahoo1.png)
+
+---
+
+![yahoo2](https://github.com/meagar/something/raw/master/assets/yahoo2.png)
+
+---
+
+![yahoo3](https://github.com/meagar/something/raw/master/assets/yahoo3.png)
+
+---
+
 ## Today
 
 
