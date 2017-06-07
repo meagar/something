@@ -68,6 +68,10 @@
 
 ---
 
+![alexa](https://github.com/meagar/something/raw/master/assets/alexa.png)
+
+---
+
 ![jobs](https://github.com/meagar/something/raw/master/assets/jobs.png)
 
 ---
@@ -167,7 +171,7 @@
 
 If your post would be out of place on Wikipedia, it's out of place on Stack Overflow
 
---
+---
 
 # How to succeed
 
@@ -177,7 +181,7 @@ If your post would be out of place on Wikipedia, it's out of place on Stack Over
 
 - Downvotes are not personal |
 - Closure is not personal |
-- Duplicates generally *are* duplicates (you may not have reduced your problem) |
+- Duplicates generally are duplicates (you may not have reduced your problem) |
 
 ---
 
