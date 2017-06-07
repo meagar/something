@@ -21,8 +21,6 @@
 
 ---
 
-## A History
-
 - Started in 2008 by Jeff and Joel
 - "anti-experts-exchange meets wikipedia meets programming reddit." |
 
@@ -59,6 +57,11 @@
 - 7,200,000 users |
 - 356,281 200+ rep users |
 
+---
+
+## Stack Exchange
+
+-
 ---
 
 What stack overflow isn't
