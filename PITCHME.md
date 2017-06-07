@@ -28,7 +28,7 @@
 
 ---
 
-![Venn](https://github.com/meagar/something/raw/master/assets/venn.png) |
+![Venn](https://github.com/meagar/something/raw/master/assets/venn.png)
 
 ---
 
@@ -151,7 +151,9 @@
 
 # *Does* Stack Overflow Suck?
 
-It depends |
+---
+
+### It depends
 
 ---
 
