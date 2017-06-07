@@ -147,6 +147,9 @@
 ---
 ![sosucks5](https://github.com/meagar/something/raw/master/assets/sosucks5.png)
 
+---
+
+# *Does* Stack Overflow Suck?
 
 ---
 
@@ -158,10 +161,6 @@
 
 ---
 
-Meta
-
----
-
-Downvotes
+## Stack Overflow hates noise
 
 ---
