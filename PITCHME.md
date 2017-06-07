@@ -5,8 +5,8 @@
 
 ---
 
-# Who am I?
-### (in the context of Stack Overflow)
+## Who am I?
+#### (in the context of Stack Overflow)
 
 - Joined in December 2009 |
 - Primarily answered PHP questions |
@@ -24,9 +24,18 @@
 ## A History
 
 - Started in 2008 by Jeff and Joel |
-- *"sort of like the anti-experts-exchange meets wikipedia meets programming reddit."* |
+- Dark time for programming Q&A
+- *"anti-experts-exchange meets wikipedia meets programming reddit."* |
+
 - ![Logo](https://github.com/meagar/something/raw/master/assets/venn.png) |
 
+---
+
+[!experts1](https://github.com/meagar/something/raw/master/assets/experts1.png)
+
+---
+
+[!experts1](https://github.com/meagar/something/raw/master/assets/experts2.png)
 
 ---
 
