@@ -16,13 +16,6 @@
 
 ---
 
-# Who am I?
-### (in the context of Stack Overflow)
-
-![Rank](https://github.com/meagar/something/raw/master/assets/rank.png)
-
----
-
 # What is Stack Overflow
 
 ---
@@ -30,6 +23,7 @@
 ## A History
 
 - Started in 2008 by Jeff and Joel |
+- "sort of like the anti-experts-exchange meets wikipedia meets programming reddit."
 
 ---
 
