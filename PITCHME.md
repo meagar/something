@@ -16,20 +16,16 @@
 
 ---
 
-# What is Stack Overflow
+## What is
+# Stack Overflow
 
 ---
 
 ## A History
 
 - Started in 2008 by Jeff and Joel |
-- "sort of like the anti-experts-exchange meets wikipedia meets programming reddit."
-
----
-
-## A History
-
-![Logo](https://github.com/meagar/something/raw/master/assets/venn.png) |
+- *"sort of like the anti-experts-exchange meets wikipedia meets programming reddit."* |
+- ![Logo](https://github.com/meagar/something/raw/master/assets/venn.png) |
 
 
 ---
