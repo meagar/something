@@ -98,6 +98,16 @@
 
 ---
 
+### A Typical SO quesiton...
+
+---
+
+- I can't figure this out |
+- My coworkers are tired of me bothering them |
+- I'll ask the Internet! |
+
+---
+
 ![asking0](https://github.com/meagar/something/raw/master/assets/asking0.png)
 
 ---
