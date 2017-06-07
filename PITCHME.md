@@ -28,11 +28,11 @@
 
 ---
 
-## Why?
+![Venn](https://github.com/meagar/something/raw/master/assets/venn.png) |
 
 ---
 
-![Logo](https://github.com/meagar/something/raw/master/assets/venn.png) |
+## Why?
 
 ---
 
@@ -44,15 +44,15 @@
 
 ---
 
-![yahoo1](https://github.com/meagar/something/raw/master/assets/yahoo1.png)
+![yahoo1](https://github.com/meagar/something/raw/master/assets/yahoo1.jpg)
 
 ---
 
-![yahoo2](https://github.com/meagar/something/raw/master/assets/yahoo2.png)
+![yahoo2](https://github.com/meagar/something/raw/master/assets/yahoo2.jpg)
 
 ---
 
-![yahoo3](https://github.com/meagar/something/raw/master/assets/yahoo3.png)
+![yahoo3](https://github.com/meagar/something/raw/master/assets/yahoo3.jpg)
 
 ---
 
@@ -87,6 +87,7 @@
 
 ---
 ![sosucks5](https://github.com/meagar/something/raw/master/assets/sosucks5.png)
+
 
 ---
 
