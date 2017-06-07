@@ -95,17 +95,6 @@
 
 ---
 
-### Stack Overflow has
-# High Standards
-
----
-
-### Stack Overflow is
-# Brutally
-### unforgiving
-
----
-
 ### A Typical SO interaction ...
 
 ---
@@ -165,6 +154,22 @@
 
 ---
 
+### Stack Overflow has
+# High Standards
+
+---
+
+### Stack Overflow is
+# Brutally
+### unforgiving
+
+---
+
+# Philosophies to live by
+### (on Stack Overflow)
+
+---
+
 ## Stack Overflow is *read* optimized
 
 99.999% of SO interactions are read-only
@@ -177,24 +182,90 @@ If your post would be out of place on Wikipedia, it's out of place on Stack Over
 
 ---
 
+## Stack Overflow gets a *lot* of bad content
+
+Some is edited, some is closed, much is downvoted
+
+---
+
+## Everybody's a volunteer
+
+Patience is key
+
+---
+
 # How to succeed
+
+---
+
+## Asking Questions
 
 ---
 
 ## 1. Perception
 
 - Downvotes are not personal |
+- You are coming into a moderated community |
 - Closure is not personal |
 - Duplicates generally are duplicates (you may not have reduced your problem) |
+- If you have a bad time, you're (probably) the problem |
 
 ---
 
 ## 2. Before asking...
 
-- Reduce your problem |
+- Reduce your problem (MCVE or SSCCE) |
 - Research your problem |
+- Test your assumptions |
 - *Debug* your problem |
 - Learn English |
 - Search Stack Overflow (with Google, not SO) |
 
-## 3. Before answering...
+---
+
+## 3. After you've asked...
+
+- Wait |
+- Accept constructive criticism |
+- Respond positively |
+- Be willing to fix your question |
+
+---
+
+# Answering Question
+
+---
+
+## Be fast
+
+- First answers typically get upvoted |
+- Read the whole post, don't jump to conclusions |
+
+
+---
+
+## Be thorough
+
+- Long answers typically get upvoted |
+- Cite sources when possible |
+
+
+---
+
+## Be formal
+
+- It's reference, not correspondence |
+- Don't swear, don't l337 speak, don't post memes |
+
+
+---
+
+## Be correct
+
+- Fast/thorough/formal don't help if you're wrong |
+
+---
+
+## And in general...
+
+- Don't feed the trolls
