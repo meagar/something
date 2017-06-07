@@ -87,12 +87,20 @@
 
 ---
 
+### Stack Overflow has
+# High Standards
+
+---
+
 ### Stack Overflow is
 # Brutally
 ### unforgiving
 
 ---
 
+![asking0](https://github.com/meagar/something/raw/master/assets/asking0.png)
+
+---
 
 ![asking1](https://github.com/meagar/something/raw/master/assets/asking1.png)
 
